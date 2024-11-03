@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/chapter1-creational_pattern/chapter1-singleton_pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter1-creational_pattern/chapter1-singleton_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter1-creational_pattern/chapter2-factory_method/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter1-creational_pattern/chapter2-factory_method/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter1-creational_pattern/chapter3-builder_pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter1-creational_pattern/chapter3-builder_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter1-creational_pattern/chapter4-prototype_design_pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter1-creational_pattern/chapter4-prototype_design_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter1-creational_pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter1-creational_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2-structural_pattern/chapter1-proxy_design_pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2-structural_pattern/chapter1-proxy_design_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2-structural_pattern/chapter2-bridge_pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2-structural_pattern/chapter2-bridge_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2-structural_pattern/chapter3-decorate_pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2-structural_pattern/chapter3-decorate_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2-structural_pattern/chapter4-adapter_pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2-structural_pattern/chapter4-adapter_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2-structural_pattern/chapter5-facade_pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2-structural_pattern/chapter5-facade_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2-structural_pattern/chapter6-flyweight_pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2-structural_pattern/chapter6-flyweight_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2-structural_pattern/chapter7-composite_pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2-structural_pattern/chapter7-composite_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2-structural_pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2-structural_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3-behavioral_pattern/chapter1-observer_pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3-behavioral_pattern/chapter1-observer_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3-behavioral_pattern/chapter10-interpreter_pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3-behavioral_pattern/chapter10-interpreter_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3-behavioral_pattern/chapter11-mediator_pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3-behavioral_pattern/chapter11-mediator_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3-behavioral_pattern/chapter2-template_method_pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3-behavioral_pattern/chapter2-template_method_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3-behavioral_pattern/chapter3-strategy_pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3-behavioral_pattern/chapter3-strategy_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3-behavioral_pattern/chapter4-chain_of_responsibility_pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3-behavioral_pattern/chapter4-chain_of_responsibility_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3-behavioral_pattern/chapter5-state_pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3-behavioral_pattern/chapter5-state_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3-behavioral_pattern/chapter6-iterator_pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3-behavioral_pattern/chapter6-iterator_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3-behavioral_pattern/chapter7-visitor_pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3-behavioral_pattern/chapter7-visitor_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3-behavioral_pattern/chapter8-memento_pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3-behavioral_pattern/chapter8-memento_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3-behavioral_pattern/chapter9-command_pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3-behavioral_pattern/chapter9-command_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3-behavioral_pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3-behavioral_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter4-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter4-test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
