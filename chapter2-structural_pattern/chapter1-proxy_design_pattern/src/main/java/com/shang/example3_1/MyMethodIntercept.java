@@ -21,7 +21,7 @@ public class MyMethodIntercept implements MethodInterceptor {
     }
 
     /**
-     * 也就是Enhance增强类中的回调函数
+     * 也就是Enhance增强类中的回调函数 一个叫目标类 一个叫代理类
      * @param o 目标类
      * @param method 目标类的方法
      *      我的理解是intercept法中没有传入接口 所以不好找方法 所以只能传入目标类对象和他的方法列表

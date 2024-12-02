@@ -8,7 +8,6 @@ package com.shang.example2_2;
  * @version: 1.0
  **/
 public class RabbitMQClient {
-    // 创建有参构造器 一定使用使用静态内部类builder让构造器失效
     public RabbitMQClient(Builder builder){
 
     }

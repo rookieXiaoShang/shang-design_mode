@@ -14,4 +14,5 @@ public abstract class IHandler {
         this.successor = successor;
     }
     public abstract void handleRequest(RequestData data);
+
 }

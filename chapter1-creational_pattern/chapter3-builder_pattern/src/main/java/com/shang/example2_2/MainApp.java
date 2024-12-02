@@ -14,5 +14,9 @@ public class MainApp {
         instance.sendMessage("Hello World");
         System.out.println("信息发送成功！Instance实例化成功！！！");
         System.out.println("instance = " + instance);
+
+        RabbitMQClient.Builder builder = new RabbitMQClient.Builder();
+        RabbitMQClient rabbitMQClient = new RabbitMQClient(builder);
+        rabbitMQClient.sendMessage("Hello World");
     }
 }
